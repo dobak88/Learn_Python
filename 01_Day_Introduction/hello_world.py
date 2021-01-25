@@ -29,5 +29,3 @@ print(type(['Dylan', 'Python', 'Finland']))
 print(type('Dylan'))
 print(type("Rossi"))
 print(type('United States of America'))
-
-
